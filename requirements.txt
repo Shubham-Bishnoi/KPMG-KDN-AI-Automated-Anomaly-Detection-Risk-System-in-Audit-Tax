@@ -1,0 +1,41 @@
+# Data Handling
+pandas
+numpy
+scipy
+pyyaml
+joblib
+
+# Machine Learning & Feature Engineering
+scikit-learn
+xgboost
+imbalanced-learn
+tensorflow
+torch
+lightgbm
+
+# Data Streaming (Kafka)
+confluent-kafka
+pyspark
+
+# APIs & Web Services (Using Flask Instead of FastAPI)
+flask
+flask-restful
+flask-cors
+
+# Database (MongoDB)
+pymongo
+dnspython
+
+# Logging & Configuration
+loguru
+python-dotenv
+
+# Visualization & Dashboard
+matplotlib
+seaborn
+streamlit
+dash
+plotly
+
+# Testing
+pytest
